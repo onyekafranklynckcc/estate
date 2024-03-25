@@ -23,6 +23,21 @@ html {
 html {
     font-family: 'Nunito', sans-serif;
 }
+.blogwriteup{
+    margin-top: 40px;
+   
+    text-align: start !important;
+  display: flex; 
+  justify-content: space-between;
+}
+.blogfirst{
+    text-align: start ;
+    width: 130% !important;
+}
+.blogwrite{
+    width: 48% !important;
+    
+}
 .preloader {
     position: fixed;
     left: 0px;
@@ -1370,6 +1385,29 @@ letter-spacing: 2px;
     .nav-link{
         margin-top: 0px;
     }
+
+
+    .blogwriteup{
+        margin-top: 40px !important;
+       
+        text-align: start !important;
+      display: block; 
+     
+    }
+    .blogfirst{
+        text-align: start ;
+        width: 100% !important;
+    }
+    .blogwrite{
+        width: 100% !important;
+        
+    }
+
+
+
+
+
+
     .heads .content .choose_bx {
         position: relative;
         width: 90%;
